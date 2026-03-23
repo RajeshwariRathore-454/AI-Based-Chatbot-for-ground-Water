@@ -1,4 +1,3 @@
-# AI-Based-Chatbot-for-ground-Water
 # AI-based-Chatbot-for-Groundwater
 
 AI-Based Chatbot for Groundwater Information
